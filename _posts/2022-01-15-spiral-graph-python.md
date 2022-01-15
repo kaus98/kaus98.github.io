@@ -1,15 +1,19 @@
 ---
 layout: post
-title: Recreating the New York Times Covid-19 Spiral Graph 
-subtitle: Build Over Python by Kaus
-cover-img: https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nyt_original.jpeg
-thumbnail-img: https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nyt_original.jpeg
-share-img: https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nyt_original.jpeg
-tags: [covid, spiral, python]
+title: "Recreating the New York Times Covid-19 Spiral Graph "
+subtitle: "Build Over Python by Kaus"
+author: "Kaus"
+header-img: "img/in-post/nyt_original.jpeg"
+header-mask: 0.4
+tags: 
+    - Covid
+    - Spiral
+    - Python
 ---
 
 # Recreating the New York Times Covid-19 Spiral Graph in Python
-## [Covid Visualizations and Predictions](https://github.com/terminate9298/Corona-Visualization-and-Prediction)
+#### [Git Link](https://github.com/kaus98/spiral-graph-covid-nyc)
+#### [Covid Visualizations and Predictions](https://github.com/terminate9298/Corona-Visualization-and-Prediction)
 
 Recently New York Times published an article with Spiral Graph representing the spread of Confirmed COVID-19 cases in US. The piece in question is titled [Here’s When We Expect Omicron to Peak.](https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html) The opener image, which attracted a lot of attention on Twitter, shows the number of new COVID cases in the U.S. since the beginning of 2020. 
 

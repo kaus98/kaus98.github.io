@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Elastic Quick Start Notes and Keyworkds Explained
+title: Elastic Quick Start Notes and Keywords Explained
 subtitle: By Kaus
-cover-img: img/in-post/2022-01-13-elastic-search.png
+# cover-img: img/in-post/2022-01-13-elastic-search.png
+header-img: img/in-post/2022-01-13-elastic-search.png
+header-mask : 0.4
 thumbnail-img: img/in-post/2022-01-13-ELASTICSEARCH.png
 share-img: img/in-post/2022-01-13-elastic-search.png
 tags: [elasticseach, notes, big data]

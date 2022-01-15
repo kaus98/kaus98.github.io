@@ -2,39 +2,36 @@
 _Etawah, UP_  
 [_lintr.ee/kaus98_](https://www.lintr.ee/kaus98)  
 [_kaus.pathak@gmail.com_](mailto:kaus.pathak@gmail.com)  
-[_GitHub_](https://github.com/terminate9298) |  [_LinkedIn_](https://www.linkedin.com/in/kaus98) |  [_Kaggle_](https://www.kaggle.com/terminate9298) | 
+[_GitHub_](https://github.com/kaus98) |  [_LinkedIn_](https://www.linkedin.com/in/kaus98) |  [_Kaggle_](https://www.kaggle.com/terminate9298) | 
 [_(914) 904 2316_](tel:+919149042316)
   
 > Data Scientist with 3+ years of experience executing data-driven Solutions to increase efficiency, accuracy and, utility of internal Data Processing. Experienced at creating deep learning models, using predictive models and Forecasting and Data mining algorithms to deliver insights and implement action-oriented solutions to real world Problems.Involved in Python open-source community and passionate about Natural Language Processing.
 I also enjoy developing with  back-end technologies such as **`Python`**/**`Flask`**, **`Python`**/**`Django`**,   **`MySQL`**/**`PostgreSQL`**, and **`Mongo`** / **`Mongoose`**; as well as front-end technologies such as  **`Javascript`** , **`SocketIO`** , **`AJAX`** , and **`JQuery`**. I have extensive experience in Operations, both as a Working in a Team , and as an individual Developer.
 
 ## PROJECTS ##
-### COVID-19 INDIA ###
-#### VISUALIZATIONS, PREDICTIONS & FORECASTING ####
+##### COVID-19 INDIA : VISUALIZATIONS, PREDICTIONS & FORECASTING #####
+>Visualized (`Matplotlib`, `Plotly` & `Folium`) and Explored Epidemic Models (`SIR`, `SIRD`, `SEIRD` & `SEIHRD` Model) & Time Series Model (`SARIMAX`, `ARIMA` , `Prophet`, `Theta Model`, `Holts Exponential Model`) over COVID Cases in India.<br>
 [GitHub](HTTPS://GITHUB.COM/TERMINATE9298/CORONA-VISUALIZATION-AND-PREDICTION)  
-Visualized (`Matplotlib`, `Plotly` & `Folium`) and Explored Epidemic Models (`SIR`, `SIRD`, `SEIRD` & `SEIHRD` Model) & Time Series Model (`SARIMAX`, `ARIMA` , `Prophet`, `Theta Model`, `Holts Exponential Model`) over COVID Cases in India.
 
-### MULTITASK LEARNING ###
-#### BTP PROJECT ####
-Worked under `Prof. Mahua Bhattacharya` and `Dr. Anuraj Singh` to create MultiT,
+##### MULTITASK LEARNING : BTP PROJECT #####
+> Worked under `Prof. Mahua Bhattacharya` and `Dr. Anuraj Singh` to create MultiT,
 a Library that trains Deep Learning Model with Multiple Dataset using Multitask
 Learning Concepts. Developed Over PyTorch and Embedded with Multiple Predefined Architectures.
 
-### Movie Recommendation System ###
-#### BTP PROJECT ####
-[Website](https://rec-movies.herokuapp.com/)  
-Use Various Recommendation Technologies to Suggest New Movies to User
+##### Movie Recommendation System : BTP PROJECT #####
+> Use Various Recommendation Technologies to Suggest New Movies to User
 According to user past Viewing History . Use Recommendation based on
 Content,Similarity ,Collabrative Filtering , Surpise Library Based, Embedding
-Based, RNN Based .
+Based, RNN Based.<br>
+[Website](https://rec-movies.herokuapp.com/)  
 
-### SONG LYRICS GENERATOR ###
-#### NLP PROJECT | SOLO PROJECT ####
-[GitHub](HTTPS://COLAB.RESEARCH.GOOGLE.COM/DRIVE/1QOUCIAXZQEEO8GQ0MW5IYJ1KMAJ-BRFJ?USP=SHARING)  
-* Generating Lyrics using Deep Learning via LSTMs, Seq2Seq, Transformers
+##### SONG LYRICS GENERATOR :  NLP PROJECT #####
+
+>* Generating Lyrics using Deep Learning via LSTMs, Seq2Seq, Transformers
 and Bert Model. Implemented Char-RNN using Pytorch.
 * Lyrics Scraper from AZLyrics using Asyncio Programming, Proxy Pooling and
-Header pooling bypassing Server Securities.
+Header pooling bypassing Server Securities.<br>
+[GitHub](HTTPS://COLAB.RESEARCH.GOOGLE.COM/DRIVE/1QOUCIAXZQEEO8GQ0MW5IYJ1KMAJ-BRFJ?USP=SHARING)  
 
 ## EXPERIENCE/INTERNSHIPS ##
 ### Dolhinchat (Feb 2021 - Apr 2021) ###
