@@ -126,11 +126,27 @@ Now we will add other country which is India in our case and try to plot spiral 
 </tr></table>
 
 
-## Great. It Works.
+#### Great. It Works.
+We can also create some other similar graphs that represent data in Sprial format but to much clear extend.
 
+### Spiral with Single Bar Graph
 I have also added one other type of Graph inspired by [souryashrestra](https://twitter.com/soustha/status/1480595666036350976) which follows lines instead of Fill.
 
 <table><tr>
 <td> <img src="https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nystyle_bar_usa.jpg" alt="Recreated Spiral Graph with india" style="width: 550px;"/> </td>
 <td> <img src="https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nystyle_bar_ind.jpg" alt="Drawing" style="width: 550px;"/> </td>
+</tr></table>
+
+### Spiral with Double Bar Graph
+Much like the previous Graph we can create double sided bar graph which can show 2 different countries stats at each of side.
+<table><tr>
+<td> <img src="https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nystyle_2bar_usa_ind.jpg" alt="Recreated Spiral Graph with india" style="width: 550px;"/> </td>
+<td> <img src="https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nystyle_2bar_ind_bra.jpg" alt="Drawing" style="width: 550px;"/> </td>
+</tr></table>
+
+### Double Sided Graph with Confirmed and Deceased Cases
+We can also represent 2 data on each side of Line representing New Confirmed and Deceased Cases for one Country.
+<table><tr>
+<td> <img src="https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nystyle_2fill_ind.jpg" alt="Recreated Spiral Graph with india" style="width: 550px;"/> </td>
+<td> <img src="https://raw.githubusercontent.com/kaus98/spiral-graph-covid-nyc/main/graphs/nystyle_2fill_usa.jpg" alt="Drawing" style="width: 550px;"/> </td>
 </tr></table>
