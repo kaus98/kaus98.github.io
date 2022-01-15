@@ -1,33 +1,86 @@
-Hi, I am _@huxpro_ (Huang, Xuan), an UI/Frontend engineer & designer, accidentally growing into a compiler hacker. My current interests range from programming languages theory and implementation in general (compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection) to software engineering in the tech industry (client-side web/mobile app development, server-side backend, user interface and UX, developer infrastructure and DX). 
+# Kaustubh Pathak #
+_Etawah, UP_  
+[_lintr.ee/kaus98_](https://www.lintr.ee/kaus98)  
+[_kaus.pathak@gmail.com_](mailto:kaus.pathak@gmail.com)  
+[_GitHub_](https://github.com/terminate9298) |  [_LinkedIn_](https://www.linkedin.com/in/kaus98) |  [_Kaggle_](https://www.kaggle.com/terminate9298) | 
+[_(914) 904 2316_](tel:+919149042316)
+  
+> Data Scientist with 3+ years of experience executing data-driven Solutions to increase efficiency, accuracy and, utility of internal Data Processing. Experienced at creating deep learning models, using predictive models and Forecasting and Data mining algorithms to deliver insights and implement action-oriented solutions to real world Problems.Involved in Python open-source community and passionate about Natural Language Processing.
+I also enjoy developing with  back-end technologies such as **`Python`**/**`Flask`**, **`Python`**/**`Django`**,   **`MySQL`**/**`PostgreSQL`**, and **`Mongo`** / **`Mongoose`**; as well as front-end technologies such as  **`Javascript`** , **`SocketIO`** , **`AJAX`** , and **`JQuery`**. I have extensive experience in Operations, both as a Working in a Team , and as an individual Developer.
 
-I'm currently working on the [Hermes JavaScript Engine](https://hermesengine.dev/) at [Facebook](http://facebook.com/). I was also involved in some of the [Facebook Reality Labs](https://tech.fb.com/ar-vr/) and the [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts. I'm also passionated about [React](https://reactjs.org/) and [React Native](https://reactnative.dev/). 
+## PROJECTS ##
+### COVID-19 INDIA ###
+#### VISUALIZATIONS, PREDICTIONS & FORECASTING ####
+[GitHub](HTTPS://GITHUB.COM/TERMINATE9298/CORONA-VISUALIZATION-AND-PREDICTION)  
+Visualized (`Matplotlib`, `Plotly` & `Folium`) and Explored Epidemic Models (`SIR`, `SIRD`, `SEIRD` & `SEIHRD` Model) & Time Series Model (`SARIMAX`, `ARIMA` , `Prophet`, `Theta Model`, `Holts Exponential Model`) over COVID Cases in India.
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+### MULTITASK LEARNING ###
+#### BTP PROJECT ####
+Worked under `Prof. Mahua Bhattacharya` and `Dr. Anuraj Singh` to create MultiT,
+a Library that trains Deep Learning Model with Multiple Dataset using Multitask
+Learning Concepts. Developed Over PyTorch and Embedded with Multiple Predefined Architectures.
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
+### Movie Recommendation System ###
+#### BTP PROJECT ####
+[Website](https://rec-movies.herokuapp.com/)  
+Use Various Recommendation Technologies to Suggest New Movies to User
+According to user past Viewing History . Use Recommendation based on
+Content,Similarity ,Collabrative Filtering , Surpise Library Based, Embedding
+Based, RNN Based .
 
-##### [My PL Spectrum (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
+### SONG LYRICS GENERATOR ###
+#### NLP PROJECT | SOLO PROJECT ####
+[GitHub](HTTPS://COLAB.RESEARCH.GOOGLE.COM/DRIVE/1QOUCIAXZQEEO8GQ0MW5IYJ1KMAJ-BRFJ?USP=SHARING)  
+* Generating Lyrics using Deep Learning via LSTMs, Seq2Seq, Transformers
+and Bert Model. Implemented Char-RNN using Pytorch.
+* Lyrics Scraper from AZLyrics using Asyncio Programming, Proxy Pooling and
+Header pooling bypassing Server Securities.
 
-I made a chart to visualize my experiences and interests on some of the programming languages. I know. I know this is always contraversial. But it's just something quite self-entertaining to do. So bare with me and have fun reading that!
+## EXPERIENCE/INTERNSHIPS ##
+### Dolhinchat (Feb 2021 - Apr 2021) ###
+#### NLP Engineer & Chatbot Developer Intern ####
+* Working in a team as an NLP Architect Chatbot expert building a chatbot
+assistants for Multiple Domain.
+* Deploying and Integrating chatbots with management dashboards, CRMs
+and Other Social Platforms.
+* Developing and Hosting Chatbot Middleware Decreasing Rasa Model size decreasing Overall Hosting Size.
 
-##### Appearence
+### Vaidik Technologies Private Limited. (Sep 2019 - Oct 2019) ###
+#### Developer Intern ####
+* Developer - Worked on NLP Models and interfaces that can Chat with New
+Readers and Refer them to the Most Significant Article.
+* Full-stack developer - Responsibility of Companies leading Blog Site using
+Django & FireBase, Including Deployment
 
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+### Shaastra Automations (Aug 2018-Nov 2018) ###
+#### Web Developer Intern    ####
+During this time, I acted as Full Stack Developer, and I designed Dynamic websites
+with various menus and multiple pages, including the Company’s main website.
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
+### EDUCATION ###
+
+##### Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior (2017 - 2022) #####
+M.Tech (Dual Degree) in Information Technology; Maintaing 7.7 GPA.
+
+##### ST. Mary College, Etawah(May, 2016) #####
+Intermediate In PCM with Computer; Cum. GPA: 8.8 / 10.0
+
+
+### Interests ###
+Code to Automate and Contribute to Open Source.
+Music🎼 and Coffee☕
+
+### Positions Of Responsibility ###
+* Maintained Developer Position in E-Cell since 2018
+* Graphic Designer in Gwalior cultural festival called Aurora which is yearly festival Organized by ABV-IIITM Gwalior. Designed posters for various events ,Facebook posts for publicity, T-Shirt designing by vector art.
+
+#### Certifications ####
+* NLP With Deep Learning (Stanford Online)
+* Deep Learning Nanodegree Program (Udacity)
+* Introduction To Deep Learning (Udemy)
+* Complete A-Z Of Machine Learning(Udemy)
+* Introduction To Machine Learning By Andrew Ng (Coursera)
+* OpenCV With Python For Image And Video Analysis (Linkedin)
+* Automate The Boring Stuff With Python (Al Sweigart)
+* Full Stack Web Developer Bootcamp (Udemy)
+
