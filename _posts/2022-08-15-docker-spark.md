@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Recreating the New York Times Covid-19 Spiral Graph "
-subtitle: "Build Over Python by Kaus"
+title: "Deploying Apache Spark, Jupyter Lab with support for Scala/Python"
+subtitle: "By Kaus"
 author: "Kaus"
-header-img: "img/in-post/2022-08-15.jpg"
+header-img: "img/in-post/2022-08-15-docker-spark.jpg"
 header-mask: 0.4
 tags: 
     - Docker
