@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Apache Spark, Jupyter Lab with support for Scala/Python"
 subtitle: "By Kaus"
 author: "Kaus"
-header-img: "img/in-post/2022-08-15-docker-spark.jpg"
+header-img: "img/in-post/2022-08-15-spark.jpg"
 header-mask: 0.4
 tags: 
     - Docker
