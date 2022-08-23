@@ -227,6 +227,9 @@ Started we can visit the Jupyter Lab and Apache Spark server over Ports 8888 and
 
 Once the Jupyter lab is running successfully, you can start building your code in Scala or Python inside Jupyter lab.  
 
+# Updates
+* **Update 1**: Python kernel is shifted to Miniconda for setting and running Jupyter-Lab
+* **Update 2**: C++ Kernel is also added to Jupyter(By Default it is Commented but can be Uncommented to add  C++ support) 
 You can also refer to the following articles which helped me in the this process:
 * https://www.stxnext.com/blog/docker-jupyterlab-apache-livy-rest-api-apache-spark/
 * https://www.kdnuggets.com/2020/07/apache-spark-cluster-docker.html
