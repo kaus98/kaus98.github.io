@@ -51,7 +51,7 @@ For a given layer in a neural network, the output before applying the activation
 ### Plotting Various Activation Functions
 To better Understand various activation functions, we have created all avilable activation functions provided by Pytorch.
 
-![Activation Function Graphs](./ActivationFunctions.png)
+![Activation Function Graphs](https://raw.githubusercontent.com/kaus98/kaus98.github.io/refs/heads/master/img/in-post/2025-01-13-ActivationFunctions.png)
 
 
 Below is Code to reproduce similar Results
