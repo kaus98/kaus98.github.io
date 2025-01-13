@@ -13,7 +13,7 @@ tags:
 
 # Visualize Activation Function avilable to use in Pytorch
 
-### Why
+### Use of Activation Function
 Deep Learning models by default are linear activated functions which limits them to leaning linear patterns. But most patterns in general tasks we train models are non-linear functions mostly including Softmax, ReLU, Sigmoid or Tanh. Non-Linear activation functions allow to preform more complex Non-Linear tasks by adding Complexity in neural network training layers. 
 
 Purpose of Activation Functions:
@@ -23,29 +23,35 @@ Purpose of Activation Functions:
   <li><b>Output Range</b> : Final Activation Function can help to control range of output from neural network enabling the tasks such as Classification or Regression. </li>
 </ol>
 
-### What
+### What they do?
 Activation Layer takes the output from neural layer passing them through activation function them moving forward them to next layer for processing. This step is repeated for every layer adding non-linearity in models.
 
 1. **Linear Transformation**:
 For a given layer in a neural network, the output before applying the activation function is computed as:
 
-   $$z = W \cdot x + b$$
+
+$$
+   z = W \cdot x + b
+$$
 
    Where:
-   - $ z $ is the output of the linear transformation (pre-activation).
-   - $ W $ is the weight matrix of the layer.
-   - $ x $ is the input vector (from the previous layer or input data).
-   - $ b $ is the bias vector.
+   - <b> z </b> is the output of the linear transformation (pre-activation).
+   - <b> W </b> is the weight matrix of the layer.
+   - <b> x </b> is the input vector (from the previous layer or input data).
+   - <b> b </b> is the bias vector.
+
 
 2. **Activation Function Application**:
 
-   After computing the linear transformation, the activation function $ f $ is applied to the output $ z $:
+   After computing the linear transformation, the activation function <b> f </b> is applied to the output <b> z </b>:
 
-   $$a = f(z)$$
+$$
+   a = f(z)
+$$
 
    Where:
-   - $ a $ is the activated output (post-activation).
-   - $ f(z) $ is the activation function applied to $ z $.
+   - <b> a </b> is the activated output (post-activation).
+   - <b> f(z) </b> is the activation function applied to $ z $.
 
 
 ### Plotting Various Activation Functions
