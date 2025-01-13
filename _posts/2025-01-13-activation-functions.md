@@ -30,9 +30,9 @@ Activation Layer takes the output from neural layer passing them through activat
 For a given layer in a neural network, the output before applying the activation function is computed as:
 
 
-$$
-   z = W \cdot x + b
-$$
+
+   <i>z = W.x + b </i>
+
 
    Where:
    - <b> z </b> is the output of the linear transformation (pre-activation).
@@ -45,9 +45,7 @@ $$
 
    After computing the linear transformation, the activation function <b> f </b> is applied to the output <b> z </b>:
 
-$$
-   a = f(z)
-$$
+    <i>  a = f(z) </i>
 
    Where:
    - <b> a </b> is the activated output (post-activation).
