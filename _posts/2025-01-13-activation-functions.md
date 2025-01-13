@@ -93,3 +93,9 @@ plt.subplot(graph_x,graph_y,25);y = torch.nn.functional.mish(x);plt.title('Mish'
 plt.tight_layout()
 plt.savefig("Activation Functions.png")
 ```
+
+We also added most used graphs below as responsive graphs for you to check
+![Activation Function Graphs]([https://raw.githubusercontent.com/kaus98/kaus98.github.io/refs/heads/master/img/in-post/2025-01-13-ActivationFunctions.png](https://raw.githubusercontent.com/kaus98/kaus98.github.io/refs/heads/master/img/in-post/ActivationFunctionsSmall.html))
+
+
+
