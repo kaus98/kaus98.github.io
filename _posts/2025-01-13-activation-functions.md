@@ -93,5 +93,4 @@ plt.subplot(graph_x,graph_y,25);y = torch.nn.functional.mish(x);plt.title('Mish'
 plt.tight_layout()
 plt.savefig("Activation Functions.png")
 ```
-
-
+[Kaggle Notebook](https://www.kaggle.com/code/terminate9298/plotting-pytorch-activation-functions)
