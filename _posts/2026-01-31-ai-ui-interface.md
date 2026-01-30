@@ -22,7 +22,6 @@ Enter **AI-UI** (project codename: `ag-aiEndpoints`), a lightweight, open-source
 You can access the full source code and contribute to the project on GitHub:
 **[https://github.com/kaus98/AI-UI](https://github.com/kaus98/AI-UI)**
 
----
 
 ## Why This Project Matters
 
@@ -54,7 +53,6 @@ Unlike standard consumer chat apps, AI-UI exposes the knobs developers care abou
 - **Temperature Control**: A slider to adjust the creativity (0.0 to 2.0) of the model on the fly.
 - **Markdown & Code**: Uses `EasyMDE` for a rich editing experience and renders responses with full syntax highlighting.
 
----
 
 ## Unified API Layer (V1)
 
@@ -88,7 +86,6 @@ All requests to the Unified API require your **Unified API Key**.
       }'
     ```
 
----
 
 ## Use Cases
 
@@ -132,7 +129,7 @@ Running AI-UI is straightforward for anyone with a basic Node.js environment.
 3.  Save and close settings.
 4.  Select a model from the dropdown (top header) and start chatting!
 
----
+
 
 ## API Reference (Internal)
 
