@@ -166,5 +166,3 @@ While powerful, AI-UI is designed as a personal tool:
 - **Search**: Full-text search across history.
 
 ---
-
-*This project represents a shift towards "Bring Your Own Model" (BYOM) software, empowering users to choose the intelligence engine that best fits their specific task, budget, and privacy requirements.*
