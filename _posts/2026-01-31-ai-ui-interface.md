@@ -3,7 +3,7 @@ layout: post
 title: "Unified Interface for AI Api"
 subtitle: "By Kaus"
 author: "Kaus"
-header-img: "img/in-post/2022-08-15-spark.jpg"
+header-img: "img/in-post/2025-01-31-ai_ui.png"
 header-mask: 0.4
 tags: 
     - openai
