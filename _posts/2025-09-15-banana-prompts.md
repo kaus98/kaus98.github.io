@@ -25,6 +25,19 @@ tags:
 #### Restoring old Photos
 *  Restore a damaged photograph by enhancing its quality, repairing tears, and correcting colors. Focus on preserving the original details while removing any blemishes or marks. Multimedia tools may be referenced, such as photo editing software.
 *  Restore this old photo into a modern, professional portrait with ultra-high clarity and rich colors. Recreate it as if captured on a Canon EOS R5 , sharp details, perfect lighting, and lifelike skin tones. Remove noise, scratches, blur, and discoloration. Keep the original facial identity fully accurate. Produce a razor-sharp, clean, vibrant, Full-HD 32k quality portrait that looks like a recent, naturally taken  photograph.
+*  Enhance the portrait while strictly preserving the subject's identity with accurate facial geometry. Do not change their expression or face shape. Only allow subtle feature cleanup without altering who they are. Keep the exact same background from the reference image. No replacements, no changes, no new objects, no layout shifts. The environment must look identical. The image must be recreated as if it was shot on a Sony A1, using an 85mm f1.4 lens, at f1.6, ISO 100, 1/200 shutter speed, cinematic shallow depth of field, perfect facial focus, and an editorial-neutral color profile. This Sony A1 + 85mm f1.4 setup is mandatory. The final image must clearly look like premium full-frame Sony A1 quality.
+Lighting must match the exact direction, angle, and mood of the reference photo. Upgrade the lighting into a cinematic, subject-focused style: soft directional light, warm highlights, cool shadows, deeper contrast, expanded dynamic range, micro-contrast boost, smooth gradations, and zero harsh shadows.
+Maintain neutral premium color tone, cinematic contrast curve, natural saturation, real skin texture (not plastic), and subtle film grain. No fake glow, no runway lighting, no over smoothing. Render in 4K resolution, 10-bit color, cinematic editorial style, premium clarity, portrait crop, and
+keep the original environmental vibe untouched.
+Re-render the subject with improved realism, depth, texture, and lighting while keeping identity and background fully preserved.
+NEGATIVE INSTRUCTIONS:
+No new background.
+No background change.
+No overly dramatic lighting.
+No face morphing.
+No fake glow.
+No flat lighting.
+No over-smooth skin.
 
 #### Avatars and Stickers
 *  Making a playful peace sign with both hands and winking. Tearful eyes and slightly trembling lips, showing a cute crying expression. Arms wide open in a warm, enthusiastic hug pose. Lying on their side asleep, resting on a tiny pillow with a sweet smile. Pointing forward with confidence, surrounded by shining visual effects. Blowing a kiss, with heart symbols floating around. Maintain the chibi aesthetic. Exaggerated, expressive big eyes. Soft facial lines. Background: Vibrant red with star or colorful confetti elements for decoration. Leave some clean white space around each sticker. Aspect ratio: 9:16
